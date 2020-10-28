@@ -1,0 +1,11 @@
+facility = 1
+index = 71
+result = 9932
+
+facility = 2
+index = 64,73
+result = 11555
+
+facility = 3
+index = 0,17,243
+result = 12152

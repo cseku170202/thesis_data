@@ -1,0 +1,13 @@
+facility = 1 
+index = 35
+result = 10607
+
+
+facility = 2
+index = 66,77
+result = 14832
+
+
+facility = 3
+index = 17,316,400
+result = 15984

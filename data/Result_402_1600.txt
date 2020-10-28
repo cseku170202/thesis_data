@@ -1,0 +1,8 @@
+facility = 1
+index = 10
+result = 15438
+
+
+facility = 2
+index = 0,79
+result = 15984

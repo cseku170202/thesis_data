@@ -1,0 +1,7 @@
+facility = 1
+index = 10
+result = 16827
+
+facility = 2
+index = 355,636
+result = 24646

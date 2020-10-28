@@ -1,0 +1,9 @@
+facility = 1
+index = 659
+result = 11612
+
+facility = 2
+index = 75,656
+result = 20290
+
+
